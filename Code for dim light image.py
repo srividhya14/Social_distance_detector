@@ -26,7 +26,7 @@ def dark_or_light(image):
     image = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY )
     blur = cv2.blur(image, (5, 5))
     img=cv2.mean(blur)
-    # With kernel size depending upon image size
+    #With kernel size depending upon image size
     if  img[0] > 127:  # The range for a pixel's value in grayscale is (0-255), 127 lies midwa
         return 1 # (127 - 255) denotes light image
     else:
