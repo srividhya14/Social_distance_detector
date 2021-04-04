@@ -297,7 +297,7 @@ while True:
     if cv2.waitKey(20) & 0xFF == ord('q'):
         break
 
-# release resources
+#release resources
 cap.release()
 print('Video completed')
 cv2.destroyAllWindows()
