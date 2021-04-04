@@ -51,6 +51,10 @@ Yolov3 Download from: https://www.kaggle.com/valentynsichkar/yolo-coco-data
     
     In Addition to that, we are storing RF and Timestamp in MySQL database in this program instead of a CSV file.
 
+--> social_distance_detector_smartphone.py
+
+    In this program we use the live video feed from smartphone camera to detect people who are not following social distance norms.
+
 
 Attached the ppt with detailed workflow and description. <br/>
 
