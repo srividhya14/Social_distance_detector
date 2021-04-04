@@ -269,7 +269,7 @@ while True:
     if cv2.waitKey(20) & 0xFF == ord('q'):
         break
 
-# release resources
+#release resources
 cap.release()
 cv2.destroyAllWindows()
     
