@@ -2,7 +2,7 @@
 
 Team Name:CTRL_WE
 
-Other Contributors:srividhya_14, koushika3
+Other Contributors:srividhya_14, koushika3, Jothika R
 
 
 During the covid 19 pandemic the main priority is the following of covid19 protocols. Social Distancing of 6 feet must be strictly followed between any 2 person. But it has been observed that People are not following social distancing(>6 feet) and are moving in clusters.
